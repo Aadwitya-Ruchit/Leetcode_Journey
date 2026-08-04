@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0283-move-zeroes) |
@@ -47,6 +49,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 ## Sorting
 |  |
