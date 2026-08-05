@@ -8,6 +8,7 @@
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
