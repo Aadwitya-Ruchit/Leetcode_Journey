@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
