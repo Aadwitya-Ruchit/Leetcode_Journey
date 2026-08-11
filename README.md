@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
