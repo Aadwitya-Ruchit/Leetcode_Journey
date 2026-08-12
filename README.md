@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0189-rotate-array) |
@@ -100,5 +101,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
