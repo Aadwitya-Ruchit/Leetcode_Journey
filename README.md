@@ -60,6 +60,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -131,4 +132,5 @@
 | [0162-find-peak-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
