@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -52,6 +53,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0162-find-peak-element) |
