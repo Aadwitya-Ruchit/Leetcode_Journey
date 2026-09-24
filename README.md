@@ -15,6 +15,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -123,10 +124,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
