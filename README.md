@@ -16,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -86,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
