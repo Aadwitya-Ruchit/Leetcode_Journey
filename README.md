@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -171,4 +172,8 @@
 | [0073-set-matrix-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
