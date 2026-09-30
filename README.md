@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -22,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0231-power-of-two) |
@@ -85,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0229-majority-element-ii) |
