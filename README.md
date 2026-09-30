@@ -18,6 +18,7 @@
 | [0125-valid-palindrome](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -132,11 +133,13 @@
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
