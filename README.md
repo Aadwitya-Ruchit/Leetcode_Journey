@@ -20,6 +20,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0229-majority-element-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
