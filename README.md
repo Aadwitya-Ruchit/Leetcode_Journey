@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aadwitya-Ruchit/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 ## Algorithm X
 |  |
 | ------- |
